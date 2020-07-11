@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf929ff5-dbf6-4204-9073-583c4c275640" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/puzzle-solver/com/vlad/Fact.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/puzzle-solver/com/vlad/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/puzzle-solver/com/vlad/Solver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzle-solver.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vlad/Fact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vlad/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vlad/Solver.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eXmjEhNXPm9YOXWgphKtp3IMVJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vlad.Main" />
+      <module name="puzzle-solver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vlad.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf929ff5-dbf6-4204-9073-583c4c275640" name="Default Changelist" comment="" />
+      <created>1594476444771</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594476444771</updated>
+    </task>
+    <servers />
+  </component>
+</project>
