@@ -11,8 +11,8 @@ public class Main {
     public static void main(String[] args) throws FileNotFoundException {
 
         final Scanner input = new Scanner(new File("resources/input.txt"));
-        LinkedList<Fact> facts = new LinkedList<>();
-        Set<Integer> digits = new HashSet<>();
+        final LinkedList<Fact> facts = new LinkedList<>();
+        final Set<Integer> digits = new HashSet<>();
         while (input.hasNext()) {
             final char[] chars = input.next().toCharArray();
             final int[] code = new int[CODE_LENGTH];
@@ -37,7 +37,7 @@ public class Main {
         Fact[] factsArray = new Fact[facts.size()];
         factsArray = facts.toArray(factsArray);
 
-        int[] partialSolution = new int[CODE_LENGTH];
+        final int[] partialSolution = new int[CODE_LENGTH];
         Arrays.fill(partialSolution, -1);
 
         Solver.solve(partialSolution, factsArray, digits, 0);

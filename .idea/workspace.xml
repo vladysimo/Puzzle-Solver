@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf929ff5-dbf6-4204-9073-583c4c275640" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/puzzle-solver/com/vlad/Fact.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/puzzle-solver/com/vlad/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/puzzle-solver/com/vlad/Solver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle-solver.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vlad/Fact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vlad/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vlad/Solver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/vlad/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vlad/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +22,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RunManager">
